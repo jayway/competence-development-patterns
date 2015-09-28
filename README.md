@@ -18,19 +18,6 @@
   - [Tech Radar](#tech-radar)
   - ["Help me in my project with this problem"](#help-me-in-my-project-with-this-problem)
   - [Book club](#book-club)
-- [Patterns to be tried out, organised and documented](#patterns-to-be-tried-out-organised-and-documented)
-  - [Remote competence session](#remote-competence-session)
-  - [Small Skype/Google Hangouts meetings](#small-skypegoogle-hangouts-meetings)
-  - [Storytelling](#storytelling)
-  - [Mentoring](#mentoring)
-  - [Featured books](#featured-books)
-  - [Featured ideas from the last year](#featured-ideas-from-the-last-year)
-  - [Coding dojos](#coding-dojos)
-  - [Hackathon](#hackathon)
-- [Patterns for teams](#patterns-for-teams)
-- [Pair programming](#pair-programming)
-- [Code reviews](#code-reviews)
-- [Mob refactoring](#mob-refactoring)
 
 ## Introduction
 
@@ -225,20 +212,3 @@ Preparation: Choosing a book together is not easy, but one way of deciding is to
 Pros: Higher motivation for the individuals to actually read the book. Discussion with others on what you've just read is often valuable and forces you to understand the subject in a deeper way.
 
 Cons: Time consuming. Workers work for free, since they are reading the book on their free time.
-
-## Patterns to be tried out, organised and documented
-
-### Remote competence session
-### Small Skype/Google Hangouts meetings
-### Storytelling
-### Mentoring 
-### Featured books
-### Featured ideas from the last year
-### Coding dojos
-### Hackathon
-
-## Patterns for teams
-
-## Pair programming
-## Code reviews
-## Mob refactoring
