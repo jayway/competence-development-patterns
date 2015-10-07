@@ -37,17 +37,17 @@ For planned competence development sessions, there are several aspects to think 
 
 * Is there enough time to prepare?
 
-* Is there some low hanging "competence fruit" that can easily be shared?
+* Is there some low hanging fruit that can easily be shared?
 
-* Is there a theme for the session? (though, sometimes it’s good to *not* have a theme)
+* Does the session belong to a certain theme (e.g. reactive programming)? However, sometimes it’s good to *not* have a theme.
 
-* Will everybody be able to "get" the session? Too easy? Too hard? Could the session be divided into two - one for beginners and one for experienced participants?
+* Will everybody be able to understand the session? Too easy? Too hard? Could the session be divided into two - one for beginners and one for participants with more experience?
 
 * Making sure the schedule holds (having some fixed session length might help)
 
 * Think about food and coffee breaks
 
-* Due to a lot of factors, people sometimes skip the last hour of the competence day (maybe they need to pick up children at kindergarten, etc etc), so it’s good to have labs at that slot. For example, it’s a bit sad to prepare a talk when half of the group is missing.
+* Due to a lot of factors, people sometimes need to leave ealier (i.e. maybe they need to pick up children at kindergarten), so it’s good be aware of that.
 
 ## Common patterns for groups
 
