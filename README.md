@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
   - [On planning and preparation](#on-planning-and-preparation)
 - [The patterns](#the-patterns)
-  - [Traditional presentation](#traditional-presentation-aka-teacher-pattern)
+  - [Traditional presentation](#traditional-presentation)
   - [Problem based lab](#problem-based-lab)
   - [Step-by-step lab](#step-by-step-lab)
   - [Real world spike](#real-world-spike)
