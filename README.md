@@ -21,11 +21,13 @@
 
 ## Introduction
 
-Jayway has a culture of doing much of our competence development in some form of group. In a group, we can share experiences with each other, raise questions from different perspectives and leverage our diversity in other ways. We value doing competence development together.
+Many organisations have a culture of doing much of their competence development in some form of group. In a group, individuals can share experiences with each other, see things from different perspectives and leverage the group's diversity in other ways. More importantly, doing competence development together is often more fun.
 
-However, we have a tendency to follow a certain form of communication, basically the "teacher pattern"; one person has prepared some material before the session and then presents it to the group, with various session length. Another common pattern is the "lab" pattern. Both of these patterns are very familiar to us from our time in school and also from conferences (presentations and traditional workshops). There are nothing intrinsically wrong with these patterns, but there exists other patterns as well and *some patterns are better than others, depending on the purpose and context*.
+However, there is often a tendency to follow a certain form of communication, basically the "teacher pattern": one person has prepared some material before the session and then presents it to the group, with various session length. Another common pattern is the "lab" pattern. 
 
-This document is an attempt to introduce other competence development patterns for groups.
+Both of these patterns are familiar to us from our time in school and also from conferences (presentations and  conference workshops). There are nothing intrinsically wrong with these patterns, but there exists other patterns as well and *some patterns are better than others, depending on the purpose and context*.
+
+This site is an attempt to introduce other competence development patterns for groups to use.
 
 Pull requests with improvements are encouraged.
 
