@@ -6,7 +6,6 @@
   - [On planning and preparation](#on-planning-and-preparation)
 - [Common patterns for groups](#common-patterns-for-groups)
   - [Traditional presentation](#traditional-presentation-aka-teacher-pattern)
-  - [Fork/join (organisational pattern)](#forkjoin-organisational-pattern)
   - [Problem based lab](#problem-based-lab)
   - [Step-by-step lab](#step-by-step-lab)
   - [Real world spike](#real-world-spike)
@@ -18,6 +17,7 @@
   - [Tech Radar](#tech-radar)
   - ["Help me in my project with this problem"](#help-me-in-my-project-with-this-problem)
   - [Book club](#book-club)
+  - [Fork/join (organisational pattern)](#forkjoin-organisational-pattern)
 
 ## Introduction
 
@@ -67,17 +67,6 @@ The group can be introduced to new techniques, concepts and ideas - being filter
 
 #### Cons
 A presentation can take very long time to prepare. Also, the communication mostly flows in only one way and that makes the other in the group more passive. It might strengthen the thought that someone else is responsible for my competence development and not myself.
-
-### Fork/join (organisational pattern)
-
-#### Context
-The group needs to divide itself into smaller groups, in order to be effective
-
-#### Description
-For many of these patterns, there is a need for dividing a group into smaller ones. Traditionally, when the session is done, the group re-join and report back. However, this is very time consuming and often boring, even if it’s just 2-3 minutes per small group. We think that it’s better to organize the re-join as a retrospective debriefing where the individuals share their observations, thoughts and feelings.
-
-#### Preparation
-For some sessions, it can be good to divide the group in beforehand, but often not.
 
 ### Problem based lab
 
@@ -277,3 +266,15 @@ Higher motivation for the individuals to actually read the book. Discussion with
 
 #### Cons
 Time consuming. Workers work for free, since they are reading the book on their free time.
+
+
+### Fork/join (organisational pattern)
+
+#### Context
+The group needs to divide itself into smaller groups, in order to be effective
+
+#### Description
+For many of these patterns, there is a need for dividing a group into smaller ones. Traditionally, when the session is done, the group re-join and report back. However, this is very time consuming and often boring, even if it’s just 2-3 minutes per small group. We think that it’s better to organize the re-join as a retrospective debriefing where the individuals share their observations, thoughts and feelings.
+
+#### Preparation
+For some sessions, it can be good to divide the group in beforehand, but often not.
