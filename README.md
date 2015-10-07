@@ -4,7 +4,7 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
   - [On planning and preparation](#on-planning-and-preparation)
-- [Common patterns for groups](#common-patterns-for-groups)
+- [The patterns](#the-patterns)
   - [Traditional presentation](#traditional-presentation-aka-teacher-pattern)
   - [Problem based lab](#problem-based-lab)
   - [Step-by-step lab](#step-by-step-lab)
@@ -49,7 +49,7 @@ For planned competence development sessions, there are several aspects to think 
 
 * Due to a lot of factors, people sometimes need to leave ealier (i.e. maybe they need to pick up children at kindergarten), so it’s good be aware of that.
 
-## Common patterns for groups
+## The patterns
 
 ### Traditional presentation
 
