@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
   - [On planning and preparation](#on-planning-and-preparation)
 - [Common patterns for groups](#common-patterns-for-groups)
-  - [Traditional presentation, aka "Teacher Pattern"](#traditional-presentation-aka-teacher-pattern)
+  - [Traditional presentation](#traditional-presentation-aka-teacher-pattern)
   - [Fork/join (organisational pattern)](#forkjoin-organisational-pattern)
   - [Problem based lab](#problem-based-lab)
   - [Step-by-step lab](#step-by-step-lab)
@@ -51,7 +51,7 @@ For planned competence development sessions, there are several aspects to think 
 
 ## Common patterns for groups
 
-### Traditional presentation, aka "Teacher Pattern"
+### Traditional presentation
 
 #### Context
 Someone has more knowledge of a certain subject than most of the individuals in the group and the group would benefit of getting access to that knowledge.
