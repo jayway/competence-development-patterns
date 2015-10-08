@@ -71,23 +71,21 @@ A presentation can take very long time to prepare. Also, the communication mostl
 ### Problem based lab
 
 #### Context
-The group needs hands-on experience with a technology or idea.
+The group has some hands-on experience with a technology or idea and wants to dig deeper.
 
 #### Description
 In software development, practical experience with a technology or idea is very valuable. One way to practice is to do a lab. It's good if there is a shorter presentation first on the subject, at least to give the context behind why the subject is interesting in the first place.
 
-#### Preparation
-One needs to prepare the short introduction. Preparing the lab can take very long time, so it's a good idea to see if there already are some labs on the web that fits what you have in mind - *this can save a lot of time. You can choose to do the lab yourself before the session or not. Make sure that the goal for the lab is clear. It’s also good to think about how to get everybody started quickly - maybe write out a suggestion for the first few things to do.
-
-Also, in our experience, it’s good if the lab has:
+One style of lab is:
 
 * automated tests
-
 * hints
+* a solution available
 
-* one solution available
+Another style of lab is more free, e.g. develop a voting web app in [technique].
 
-If you develop the lab yourself, ask the question: "Could the lab be marketed in some way"?
+#### Preparation
+One needs to prepare a short introduction. Depending on the contraints and goals, preparing the lab can take very long time, so it's a good idea to see if there already are some labs on the web that fits what you have in mind - this can save a lot of time. You can choose to do the lab yourself before the session or not. Make sure that the goal for the lab is clear. It’s also good to think about how to get everybody started quickly - maybe write out a suggestion for the first few things to do.
 
 #### Pros
 As mentioned above, practical experience is very valuable. It also gives the group a common experience and it can relate back to that experience (which is also a risk, if the lab is not good). 
@@ -95,22 +93,24 @@ As mentioned above, practical experience is very valuable. It also gives the gro
 #### Cons
 Labs require longer sessions and there is a risk that the group doesn't get enough back for the invested time and effort.
 
-### Step-by-step lab
+### Tutorial
 
 #### Context
-see Problem Based Lab
+The group needs hands-on experience with a technology or idea.
 
 #### Description
-see Problem Based Lab
+A tutorial is a form of lab. The web is full of tutorials, so the preparation cost is very low. Also, there is a good chance that tutorial is tried by many people before you, possibly raising the quality of the lab.
+
+You can have a tutorial and a problem based lab in sequence: getting to know the idea in the tutorial and then applying it in the problem based lab.
 
 #### Preparation
 Prepare a short introduction before the lab. Why is the subject interesting in the first place?
 
 #### Pros
-Practical experience on the subject
+Practical experience on the subject.
 
 #### Cons
-This type of lab is often "too guided", which means that there is no actual thinking going on by the participants. In our experience, such labs are not good and should be avoided. Labs require longer sessions and there is a risk that the group doesn't get enough back for the invested time and effort.
+This type of lab is sometimes too guided, which means that there is no actual thinking going on by the participants. However, it's a good place to start.
 
 ### Real world spike
 
