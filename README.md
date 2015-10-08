@@ -7,7 +7,7 @@
 - [The patterns](#the-patterns)
   - [Traditional presentation](#traditional-presentation)
   - [Problem based lab](#problem-based-lab)
-  - [Step-by-step lab](#step-by-step-lab)
+  - [Tutorial](#tutorial)
   - [Real world spike](#real-world-spike)
   - [Lightning talks](#lightning-talks)
   - [Round table](#round-table)
