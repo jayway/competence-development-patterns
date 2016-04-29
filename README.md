@@ -22,3 +22,7 @@ For planned competence development sessions, there are several aspects to think 
 * Making sure the schedule holds (having some fixed session length might help)
 * Think about food and coffee breaks
 * Due to a lot of factors, people sometimes need to leave ealier (i.e. maybe they need to pick up children at kindergarten), so it’s good be aware of that.
+
+### Contribute
+
+Feel free to contribute to this collection of patterns by sending pull requests to [Competence Development Patterns on GitHub](https://github.com/jayway/competence-development-patterns) <3
