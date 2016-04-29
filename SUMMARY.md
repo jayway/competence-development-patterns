@@ -12,7 +12,7 @@ Competence Development Patterns
   * [Tech Radar](patterns/tech-radar.md)
   * [Traditional Presentation](patterns/traditional-presentation.md)
   * [Fishbowl](patterns/fishbowl.md)
-  * [Open Space](patterns/open-space.md)
+  * [Unconference](patterns/unconference.md)
   * [Problem Based Lab](patterns/problem-based-lab.md)
   * [Book Club](patterns/book-club.md)
   * [Real Spike](patterns/real-spike.md)

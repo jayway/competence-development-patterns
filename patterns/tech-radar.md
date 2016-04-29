@@ -6,6 +6,8 @@ The group needs to decide on where to invest future competence time.
 #### Description
 See [Build Your Own Technology Radar](http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html). As a facilitator, you need to think about to get a balance between the different "rings" and quadrants. Use techniques such as [dot voting](http://martinfowler.com/bliki/DotVoting.html) to make things more effective and avoid drilling down in topics before most items are up on the whiteboard.
 
+You can also try to make a tech radar using remote collaboration tools, if needed.
+
 #### Preparation
 1-2 facilitator(s). Lots of post-its and pens.
 
