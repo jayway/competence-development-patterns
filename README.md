@@ -9,6 +9,8 @@ Both of these patterns are familiar to us from our time in school and also from 
 
 This site is an attempt to introduce other competence development patterns for groups to use.
 
+On the [issues page](https://github.com/jayway/competence-development-patterns/issues/), there are more patterns to try and/or document. Also, as the number of documented patters grow, it's likely that we need a better way to organise and categorise the patterns.
+
 Pull requests with improvements are encouraged.
 
 ### On planning and preparation
