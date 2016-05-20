@@ -1,3 +1,4 @@
+#!/bin/bash
 git stash
 git checkout gh-pages
 git reset --hard master
