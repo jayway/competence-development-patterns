@@ -1,5 +1,5 @@
 
-## Introduction
+# Competence Development Patterns
 
 Many organisations have a culture of doing much of their competence development in some form of group. In a group, individuals can share experiences with each other, see things from different perspectives and leverage the group's diversity in other ways. More importantly, doing competence development together is often more fun.
 
@@ -13,7 +13,7 @@ On the [issues page](https://github.com/jayway/competence-development-patterns/i
 
 Pull requests with improvements are encouraged.
 
-### On planning and preparation
+## On planning and preparation
 
 For planned competence development sessions, there are several aspects to think about, for example:
 
@@ -25,6 +25,6 @@ For planned competence development sessions, there are several aspects to think 
 * Think about food and coffee breaks
 * Due to a lot of factors, people sometimes need to leave ealier (i.e. maybe they need to pick up children at kindergarten), so it’s good be aware of that.
 
-### Contribute
+## Contribute
 
 Feel free to contribute to this collection of patterns by sending pull requests to [Competence Development Patterns on GitHub](https://github.com/jayway/competence-development-patterns) <3
