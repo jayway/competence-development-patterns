@@ -1,6 +1,6 @@
-### Real problem
+### Real World Problem
 
-Or "Help me in my project with this problem".
+![Local Image](../images/real-world-problem.jpg)
 
 #### Context
 A member of the group has a problem in their project and think that the problem would be interesting for the group to explore

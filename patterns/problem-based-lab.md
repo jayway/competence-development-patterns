@@ -1,5 +1,7 @@
 ### Problem based lab
 
+![Local Image](../images/problem-based.jpg)
+
 #### Context
 The group has some hands-on experience with a technology or idea and wants to dig deeper.
 

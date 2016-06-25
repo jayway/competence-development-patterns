@@ -1,5 +1,7 @@
 ### Unconference
 
+![Local Image](../images/unconference.jpg)
+
 #### Context
 Some members of the group has different experiences and/or problems and would like to discuss them with others. Other members of the group want input on other’s experiences and problems.
 

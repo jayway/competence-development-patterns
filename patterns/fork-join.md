@@ -1,4 +1,6 @@
-### Fork/join (organisational pattern)
+### Fork/join
+
+![Local Image](../images/fork-join.jpg)
 
 #### Context
 In order to be effective, the group needs to divide itself into smaller groups.

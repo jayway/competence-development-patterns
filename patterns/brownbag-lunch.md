@@ -1,5 +1,7 @@
 ### Brownbag lunch
 
+![Local Image](../images/brownbag.jpg)
+
 #### Context
 There are a lot of good presentations online and we all need to eat lunch.
 

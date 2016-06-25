@@ -1,5 +1,7 @@
 ### Tech Radar
 
+![Local Image](../images/tech-radar.jpg)
+
 #### Context
 The group needs to decide on where to invest future competence time.
 

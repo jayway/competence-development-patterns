@@ -1,5 +1,7 @@
 ### Traditional presentation
 
+![Local Image](../images/traditional-presentation.jpg)
+
 #### Context
 Someone has more knowledge of a certain subject than most of the individuals in the group and the group would benefit of getting access to that knowledge.
 

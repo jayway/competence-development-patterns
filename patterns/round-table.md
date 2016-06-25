@@ -1,5 +1,7 @@
 ### Round table
 
+![Local Image](../images/round-table.jpg)
+
 #### Context
 There's a need for exploring the landscape together.
 

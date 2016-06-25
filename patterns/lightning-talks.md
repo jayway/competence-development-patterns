@@ -1,5 +1,7 @@
 ### Lightning talks
 
+![Local Image](../images/lightning-talks.jpg)
+
 #### Context
 There is so much new stuff happening in the world. At the same time, some of the older techniques and concepts are still valid in the right situations. We don't have the time to cover everything.
 

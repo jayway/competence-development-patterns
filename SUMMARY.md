@@ -4,7 +4,7 @@ Competence Development Patterns
 
 * [Introduction](README.md)
 * [The patterns](patterns/README.md)
-  * [Fork/join (organisational pattern)](patterns/fork-join.md)
+  * [Fork/join](patterns/fork-join.md)
   * [Brownbag Lunch](patterns/brownbag-lunch.md)
   * [Round Table](patterns/round-table.md)
   * [Tutorial](patterns/tutorial.md)
@@ -15,6 +15,6 @@ Competence Development Patterns
   * [Unconference](patterns/unconference.md)
   * [Problem Based Lab](patterns/problem-based-lab.md)
   * [Book Club](patterns/book-club.md)
-  * [Real Spike](patterns/real-spike.md)
-  * [Real Problem](patterns/real-problem.md)
+  * [Real World Spike](patterns/real-spike.md)
+  * [Real World Problem](patterns/real-problem.md)
 

@@ -1,5 +1,7 @@
 ### Book club
 
+![Local Image](../images/book-club.jpg)
+
 #### Context
 Books are good sources of information. Reading them together with others motivates and encourages discussion.
 

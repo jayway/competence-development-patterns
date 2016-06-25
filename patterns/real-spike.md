@@ -1,4 +1,6 @@
-### Real spike
+### Real World Spike
+
+![Local Image](../images/real-world-spike.jpg)
 
 #### Context
 Someone has an interesting real world problem that would be good for the group to solve.

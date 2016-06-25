@@ -1,5 +1,7 @@
 ### Fishbowl
 
+![Local Image](../images/fishbowl.jpg)
+
 #### Context
 There is a need for a discussion or debate within the group.
 

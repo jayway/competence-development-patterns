@@ -1,6 +1,8 @@
 
 # Competence Development Patterns
 
+![Local Image](./images/magic.jpg)
+
 Many organisations have a culture of doing much of their competence development in some form of group. In a group, individuals can share experiences with each other, see things from different perspectives and leverage the group's diversity in other ways. More importantly, doing competence development together is often more fun.
 
 However, there is often a tendency to follow a certain form of communication, basically the "teacher pattern": one person has prepared some material before the session and then presents it to the group, with various session length. Another common pattern is the "lab" pattern.
@@ -26,5 +28,9 @@ For planned competence development sessions, there are several aspects to think 
 * Due to a lot of factors, people sometimes need to leave ealier (i.e. maybe they need to pick up children at kindergarten), so it’s good be aware of that.
 
 ## Contribute
+
+Install [gitbook](https://github.com/GitbookIO/gitbook) with `npm install -g gitbook-cli`
+
+Start gitbook with `gitbook serve`
 
 Feel free to contribute to this collection of patterns by sending pull requests to [Competence Development Patterns on GitHub](https://github.com/jayway/competence-development-patterns) <3
