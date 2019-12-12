@@ -3,7 +3,7 @@
 ![Local Image](../images/unconference.jpg)
 
 #### Context
-Some members of the group has different experiences and/or problems and would like to discuss them with others. Other members of the group want input on other’s experiences and problems.
+Some members of the group have different experiences and/or problems and would like to discuss them with others. Different members of the group may desire input on their own experiences and problems.
 
 #### Description [[1]](https://en.wikipedia.org/wiki/Unconference):
 
@@ -23,4 +23,4 @@ Each participant tries to prepare a few ideas for the marketplace, if possible.
 The most important and interesting topics tend to get crowded, which is noteworthy for the future.
 
 #### Cons
-Relies on some properties of the group that is not always there, such as diverse experiences, willingness to share, communication skills, etc.
+Relies on some properties of the group that are not always there, such as diverse experiences, willingness to share, communication skills, etc.
